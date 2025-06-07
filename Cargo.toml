@@ -1,0 +1,9 @@
+[package]
+name = "xl9555"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+[dependencies]
+bitflags = "2.9.0"
+embedded-hal = "1.0.0"
